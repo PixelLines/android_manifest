@@ -1,4 +1,4 @@
-# PixelLines
+<img width="800" height="400" alt="PixelLines_logo" src="https://github.com/user-attachments/assets/c30c8314-b17a-4573-ace8-d8f6c1ef2b9a" />
 
 ## Getting Started
 
