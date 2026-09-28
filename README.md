@@ -1,4 +1,6 @@
-# PixelOS
+# PixelLines AOSP
+
+<img width="1080" height="540" alt="PixelLines" src="https://github.com/user-attachments/assets/f078887e-1bd2-4f67-8afe-91f837da2ab0" />
 
 ## Getting Started
 
@@ -34,8 +36,5 @@ breakfast devicecodename
 Start the compilation:
 
 ```bash
-m pixelos
+m pixellines
 ```
-
-## Submitting Patches
-Patches are always welcome! Feel free to submit your patches via [PixelOS Gerrit](https://review.pixelos.net/).
